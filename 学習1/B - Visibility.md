@@ -3,8 +3,7 @@
 ## URL
 https://atcoder.jp/contests/abc197/tasks/abc197_b
 
-## 解
-```python
+## 解答
 h, w, x, y = map(int, input().split())
 s = [list(input()) for i in range(h)]
 x -= 1
@@ -28,7 +27,6 @@ while 0 <= i and s[i][y] == ".":
     cnt += 1
     i += 1
 print(cnt)
-```
 
 ## 方針
 - (X,Y)のマスから上、下、右、左方向へ、壁に当たるまで何マス進めるかを調べる

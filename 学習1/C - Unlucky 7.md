@@ -4,7 +4,6 @@
 https://atcoder.jp/contests/abc186/tasks/abc186_c
 
 ## 解答
-```python
 n = int(input())
 
 
@@ -25,7 +24,6 @@ for i in range(1, n+1):
     if judge_10(i) and judge_8(i):
         cnt += 1
 print(cnt)
-```
 
 ## 方針
 -　nを10進数表示と8進数表示にしたとき、7を含むかどうかを判定し含まない数を出力する

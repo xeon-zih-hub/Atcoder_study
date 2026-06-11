@@ -4,7 +4,6 @@
 https://atcoder.jp/contests/abc190/tasks/abc190_b
 
 ## 解答
-```python
 n, s, d = map(int, input().split())
 for i in range(n):
     x, y = map(int, input().split())
@@ -12,7 +11,6 @@ for i in range(n):
         print("Yes")
         exit()
 print("No")
-```
 
 ## 方針
 - s未満のxと、dより大きいyが存在するかを全パターン調べる
