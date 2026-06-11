@@ -1,0 +1,8 @@
+services:
+  anaconda:
+    build: ./
+    container_name: "Atcoder"
+    working_dir: "/root/"
+    tty: true
+    volumes:
+      - ./work:/root/work
