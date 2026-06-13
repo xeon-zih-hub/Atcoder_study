@@ -1,4 +1,4 @@
-# ABC186 C
+# C - Unlucky 7
 
 ## URL
 https://atcoder.jp/contests/abc186/tasks/abc186_c

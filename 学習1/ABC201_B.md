@@ -1,4 +1,4 @@
-# ABC201 B
+# B - Do you know the second highest mountain?
 
 ## URL
 https://atcoder.jp/contests/abc201/tasks/abc201_b

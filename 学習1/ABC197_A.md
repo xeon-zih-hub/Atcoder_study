@@ -1,4 +1,4 @@
-# ABC197 A
+# A - Rotate
 
 ## URL
 https://atcoder.jp/contests/abc197/tasks/abc197_a

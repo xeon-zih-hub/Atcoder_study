@@ -1,4 +1,4 @@
-# ABC180 C
+# C - Cream puff
 
 ## URL
 https://atcoder.jp/contests/abc180/tasks/abc180_c

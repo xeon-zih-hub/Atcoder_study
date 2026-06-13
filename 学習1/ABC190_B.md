@@ -1,4 +1,4 @@
-# ABC190 B
+# B - Magic 3
 
 ## URL
 https://atcoder.jp/contests/abc190/tasks/abc190_b
