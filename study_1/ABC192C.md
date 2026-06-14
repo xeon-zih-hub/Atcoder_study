@@ -4,6 +4,7 @@
 https://atcoder.jp/contests/abc192/tasks/abc192_c
 
 ## 解答
+```python
 n, k = map(int, input().split())
 
 def g1(n):
@@ -25,13 +26,14 @@ def f(n):
 for i in range(k):
     n = f(n)
 print(n)
+```
 
 ## 方針
--　指示通りの処理を行う関数を作成する
+- 指示通りの処理を行う関数を作成する
 
 ## 解法ポイント
--　
+- 
 
 ## メモ
--　s="".join()をあまり理解できていない気がする
+- s="".join()をあまり理解できていない気がする
 - https://note.nkmk.me/python-string-concat/#join

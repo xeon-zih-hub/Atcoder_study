@@ -4,12 +4,14 @@
 https://atcoder.jp/contests/abc201/tasks/abc201_b
 
 ## 解答
+```python
 n = int(input())
 li = []
 for i in range(n):
     s, t = input().split()
     li.append([int(t), s])
 print(sorted(li, reverse=True)[1][1])
+```
 
 ## 方針
 - 高さを並び替えて、2番目に高い山の名前を出力する
